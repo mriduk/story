@@ -24,10 +24,10 @@ TEMPLATE_DIR=BASE_DIR / 'templates'
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-#SECRET_KEY = '!g3ufm5l@9@r0%r3@phn=#a6vvp@u*fb_06z7&qplwy+!+esgy'
-SECRET_KEY =os.environ.get('SECRET_KEY')
+SECRET_KEY = '!g3ufm5l@9@r0%r3@phn=#a6vvp@u*fb_06z7&qplwy+!+esgy'
+#SECRET_KEY =os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['storyhead.herokuapp.com']
 
