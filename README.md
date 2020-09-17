@@ -61,5 +61,5 @@ PASSWORD:basubasu
 
 [Hackerrank](https://www.hackerrank.com/mriduk_00)
 
-[Linkdin](https://www.linkedin.com/in/mridu-kejariwal-3800ab172/)
+[Linkdln](https://www.linkedin.com/in/mridu-kejariwal-3800ab172/)
 
