@@ -20,7 +20,7 @@ https://drive.google.com/drive/u/0/folders/1XqkimZyPOh25pWISuWoOJluyMHbuhS3S
 
 *On visiting the story page, one can view the number of current unique readers reading that particular story and also the count of readers who already read the story(provided each count only for one reader).
 
-*'Total reads' can be in incremented for some stories because of some example users(mentioned below), was done for final testing of the webapp.
+*'Total reads' for some stories is not 0, because of some example users(mentioned below) were used for the final testing of the functionality of the webapp.
 
 *Sign up and login facilities are available.
 
