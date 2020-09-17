@@ -16,15 +16,15 @@ Please find attached Resume in the same folder, else at:
 https://drive.google.com/drive/u/0/folders/1XqkimZyPOh25pWISuWoOJluyMHbuhS3S
 
 
-*Name of the webapp is 'Storyhead'.
+1]Name of the webapp is 'Storyhead'.
 
-*On visiting the story page, one can view the number of current unique readers reading that particular story and also the count of readers who already read the story(provided each count only for one reader).
+2]On visiting the story page, one can view the number of current unique readers reading that particular story and also the count of readers who already read the story(provided each count only for one reader).
 
-*'Total reads' for some stories is not 0, because of some example users(mentioned below) were used for the final testing of the functionality of the webapp.
+3]'Total reads' for some stories is not 0, because of some example users(mentioned below) were used for the final testing of the functionality of the webapp.
 
-*Sign up and login facilities are available.
+4]Sign up and login facilities are available.
 
-*Below are some credentials of 3 users and admin mentioned as examples.
+5]Below are the credentials of 3 users and admin (used as examples for testing purpose).
 
 
 CREDENTIALS-:
