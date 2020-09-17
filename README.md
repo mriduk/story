@@ -19,19 +19,19 @@ https://drive.google.com/drive/u/0/folders/1XqkimZyPOh25pWISuWoOJluyMHbuhS3S
 
 CREDENTIALS-:
 
-ADMIN-     USERNAME:Storyhead    PASSWORD:1234
+ADMIN-     USERNAME:Storyhead       PASSWORD:1234
 
 FEW USERS-:
 
 USER-1
 
-USERNAME:Mridu   PASSWORD:mridumridu
+USERNAME:Mridu              PASSWORD:mridumridu
 
 USER-2
 
-USERNAME:Anie      PASSWORD:anieanie
+USERNAME:Anie               PASSWORD:anieanie
 
 USER-3
 
-USERNAME:Basu     PASSWORD:basubasu
+USERNAME:Basu                PASSWORD:basubasu
 
